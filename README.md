@@ -26,12 +26,11 @@
 
 ---
 
-## 🖥️ GitHub Summary Cards
+## 📊 GitHub Summary Cards
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharushiKarunarathne&theme=tokyo_dark" />
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharushiKarunarathne&theme=github_dark)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TharushiKarunarathne&theme=github_dark)
+![Languages Per Repo](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TharushiKarunarathne&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharushiKarunarathne&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TharushiKarunarathne&theme=github_dark)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TharushiKarunarathne&theme=tokyo_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TharushiKarunarathne&theme=tokyo_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharushiKarunarathne&theme=tokyo_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TharushiKarunarathne&theme=tokyo_dark" />
