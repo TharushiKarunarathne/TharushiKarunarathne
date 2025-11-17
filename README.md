@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Tharushi 👋
 
-<!--
-**TharushiKarunarathne/TharushiKarunarathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate at SLIIT  
+💡 Interested in Programming, Databases, and Software Development  
+🚀 Always learning and building new things  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 GitHub Analytics & Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TharushiKarunarathne&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharushiKarunarathne&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TharushiKarunarathne&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TharushiKarunarathne&theme=tokyo-night&hide_border=true)
+
+---
+
+## 🖥️ GitHub Summary Cards
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharushiKarunarathne&theme=tokyo_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TharushiKarunarathne&theme=tokyo_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TharushiKarunarathne&theme=tokyo_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharushiKarunarathne&theme=tokyo_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TharushiKarunarathne&theme=tokyo_dark" />
