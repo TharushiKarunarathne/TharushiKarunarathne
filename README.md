@@ -1,6 +1,6 @@
 # Hi, I'm Tharushi 👋
 
-🎓 IT Undergraduate at SLIIT  
+🎓 DS Undergraduate at SLIIT  
 💡 Interested in Programming, Databases, and Software Development  
 🚀 Always learning and building new things  
 
